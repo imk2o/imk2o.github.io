@@ -1,5 +1,6 @@
 ## Projects
 
+* [Reminban🇯🇵](/reminban/ja) / [Reminban🇬🇧](/reminban/en)
 * [ふぉとむぐ🇯🇵](/photomugu/ja) / [Photomugu🇬🇧](/photomugu/en)
 * ふぉとくり
 
