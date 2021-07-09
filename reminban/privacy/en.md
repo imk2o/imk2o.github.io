@@ -1,3 +1,7 @@
+---
+title: Reminban
+---
+
 # Privacy policy
 
 "Reminban" will have access to your information regarding the following.
